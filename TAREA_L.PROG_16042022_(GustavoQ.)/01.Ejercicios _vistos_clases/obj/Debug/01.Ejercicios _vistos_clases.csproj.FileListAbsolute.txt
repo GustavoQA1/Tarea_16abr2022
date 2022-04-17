@@ -1,0 +1,8 @@
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\bin\Debug\01.Ejercicios _vistos_clases.exe.config
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\bin\Debug\01.Ejercicios _vistos_clases.exe
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\bin\Debug\01.Ejercicios _vistos_clases.pdb
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\obj\Debug\01.Ejercicios _vistos_clases.csproj.AssemblyReference.cache
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\obj\Debug\01.Ejercicios _vistos_clases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\obj\Debug\01.Ejercicios _vistos_clases.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\obj\Debug\01.Ejercicios _vistos_clases.exe
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\TAREA_L.PROG_16042022_(GustavoQ.)\01.Ejercicios _vistos_clases\obj\Debug\01.Ejercicios _vistos_clases.pdb
